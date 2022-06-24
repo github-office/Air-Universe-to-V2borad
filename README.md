@@ -156,7 +156,7 @@ airu ##选择6 重启
 
 ![](https://cdn.jsdelivr.net/gh/github-office/png-hub/img/page1/nginx配置-202206231940003.jpg)
 
-12.  访问 你的域名/china/no1 ，如果浏览器显示Bad Request，则说明配置成功
+12.  访问 `你的域名/china/no1` ，如果浏览器显示Bad Request，则说明配置成功
 
 ![](https://cdn.jsdelivr.net/gh/github-office/png-hub/img/page1/返回错误请求202206231945122.png)
 
