@@ -158,7 +158,7 @@ airu ##选择6 重启
 
 12.  访问 你的域名/china/no1 ，如果浏览器显示Bad Request，则说明配置成功
 
- 	![](https://cdn.jsdelivr.net/gh/github-office/png-hub/img/page1/返回错误请求202206231945122.png)
+![](https://cdn.jsdelivr.net/gh/github-office/png-hub/img/page1/返回错误请求202206231945122.png)
 
 13.  配置伪装站。此时网站还是宝塔默认的网页，为了让网站看上去更正常一点，可以随便找个网站伪装一下。宝塔面板点击网站根目录，单机全部文件，有个文件删不掉不用管。
 
